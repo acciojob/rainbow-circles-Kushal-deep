@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 #outer{
-	background-color:#ff0000;
+	background-color:rgb(255, 165, 0);
 	height:300px;
 	width:300px;
 	border-radius:50%;
@@ -11,7 +11,7 @@
 #middle{
 	background-color:#ffa500;
 	height:250px;
-	width:250px;
+	width:200px;
 	border-radius:50%;
 	display:flex;
 	justify-content:center;
@@ -21,7 +21,7 @@
 #inner{
 	background-color:#ffff00;
 	height:200px;
-	width:200px;
+	width:100px;
 	border-radius:50%;
 	display:flex;
 	justify-content:center;
