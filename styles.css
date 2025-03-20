@@ -11,7 +11,7 @@
 }
 #middle{
 	background-color:#ffa500;
-	height:250px;
+	height:200px;
 	width:200px;
 	border-radius:50%;
 	display:flex;
@@ -21,7 +21,7 @@
 
 #inner{
 	background-color:#ffff00;
-	height:200px;
+	height:100px;
 	width:100px;
 	border-radius:50%;
 	display:flex;
